@@ -1,0 +1,6 @@
+def generateInsert(tablename,value):
+    t = tablename
+    vv =','.join(value)
+    return ('INSERT INTO '+ t + ' VALUES' + ' (' + vv + ')')
+
+    
