@@ -1,11 +1,11 @@
-# Program language: Python, sql, sqlite(DSC 450), amazonEc2,linix, hadoop, hive, pig  (CSC 555)
+#### Program language: Python, sql, sqlite(DSC 450), amazonEc2,linix, hadoop, hive, pig  (CSC 555)
 
 ## DCS 450 Database Processing for Large-Scale Analytics
 
 Databases for analytics, Twitter:
 • Used Python (sqlite, json, matplotlib), Oracle to import 1 million and visualize data from twitter (html text).
 
-# sqlite--tweet
+### sqlite--tweet
 import data into tweet database
 using sqlite to select some specific data from tweet database 
 
