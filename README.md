@@ -1,4 +1,7 @@
-# Program language: Python, sql, sqlite(DSC 450), amazonEc2,linix, hadoop, hive, pig  (CSC 555)
+#### Program language: 
+
+Python, sql, sqlite(DSC 450)
+AmazonEc2, linix, hadoop, hive, pig  (CSC 555)
 
 ## DCS 450 Database Processing for Large-Scale Analytics
 
